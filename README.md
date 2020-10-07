@@ -1,0 +1,5 @@
+# 🥒/📊 Pickle subgraph
+
+## License
+
+WTFPL
